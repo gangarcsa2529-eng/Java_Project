@@ -1,0 +1,4 @@
+A good programmer solves problems by breaking them into smaller and manageable steps.
+Object oriented programming helps organize complex software into reusable classes.
+Consistent practice and proper finger placement will steadily increase your words per minute.
+Writing clear and well structured code makes debugging much easier in the future.
